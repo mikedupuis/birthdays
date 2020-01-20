@@ -1,0 +1,16 @@
+{
+    "people": [
+        {
+            "name": "Barack Obama",
+            "gender": "male",
+            "birthday": {
+                "year": 1961,
+                "month": 8,
+                "day": 4
+            }
+        }
+    ],
+    "birthday-alerts": {
+        "alert-threshold-days": 7
+    }
+}
